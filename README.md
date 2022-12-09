@@ -18,6 +18,6 @@ da história do Brasil e Mundo.
  Feito com HTML, CSS e JavaScript. Já fizemos aqui a
 documentação Inicial.
 
-Curso realizado pelo Programaria com a mentora Aline
+Curso realizado pelo PrograMaria com a mentora Aline
 
 - [PrograMaria](https://www.programaria.org/)
