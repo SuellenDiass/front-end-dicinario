@@ -1,4 +1,14 @@
- # Dicionário
+ <p align="center">
+    <img width="700" src="https://user-images.githubusercontent.com/102911341/206719895-8ebcea31-b5d5-40e6-ba12-16069aebe885.png">
+</p>
+ 
+ 
+ <p> <h1 align="center">Dicionário</h1></p>
+     
+
+ 
+ 
+
  
  ## Projeto final do curso EuProgramo Front-End II da PrograMaria
 
@@ -9,3 +19,5 @@ da história do Brasil e Mundo.
 documentação Inicial.
 
 Curso realizado pelo Programaria com a mentora Aline
+
+- [PrograMaria](https://www.programaria.org/)
