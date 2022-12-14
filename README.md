@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">Seja redirecionado à página da 
-<a href="https://suellendiass.github.io/front-end-dicinario/">Dicionário</a></p>
+<a href="https://suellendiass.github.io/front-end-dicinario/" target="_blank">Dicionário</a></p>
 
 
  
