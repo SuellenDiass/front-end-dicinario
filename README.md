@@ -2,7 +2,7 @@
     <img width="700" src="https://user-images.githubusercontent.com/102911341/206719895-8ebcea31-b5d5-40e6-ba12-16069aebe885.png">
 </p>
 
-<p align="center">Seja redirecionado à página da 
+<p align="center">Seja redirecionado à página do 
 <a href="https://suellendiass.github.io/front-end-dicinario/" target="_blank">Dicionário</a></p>
 
 
